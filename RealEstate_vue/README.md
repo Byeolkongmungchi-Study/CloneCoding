@@ -1,42 +1,3 @@
-# Real Estate view page
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
----
-<br>
-
-all credits goes to -> [coding apple]( https://codingapple.com/ )
-
-based on the [seminar](https://codingapple.com/goods/goods_view.php?goodsNo=1000000091) from __coding apple__
-
-<br>
-
----
-<br>
-
-
 # Course Outline
 
 <br>
@@ -71,55 +32,31 @@ based on the [seminar](https://codingapple.com/goods/goods_view.php?goodsNo=1000
 
 </div>
 </details>
- 
- <br>
- 
-<details>
-<summary>  [2주] Router를 이용한 포트폴리오 소개형 블로그 만들어보기  </summary>  
-<div markdown="1">
- 
-- Vue CLI로 프로젝트 다시 한번 더 만들어보기 
 
-- Vue-router 설치와 라우터 개념
-
-- 컴포넌트 다시 한번 만들어보기
-
-- 라우터로 페이지 구분하기
-
-- URL파라미터를 추가해서 각각 다른 데이터 보여주기 
-
-- 라우터의 children 개념
-</div>
-</details>
- 
+---
 <br>
- 
-<details>
-<summary>  [3~4주] 인스타그램 웹버전을 만들며 배워보는 Vue 실전 프로젝트 </summary> 
-<div markdown="1">
- 
-- Vue CLI로 프로젝트 다시 한번 만들어보기
 
-- step에 따른 페이지 구분패턴 (왜 이건 라우터로 안만들죠?)
+# Real Estate view page
 
-- 웹앱 인스타그램 기획문서를 보고 코드를 짜보자
+## Project setup
+```
+yarn install
+```
 
-- FileReader API를 이용한 프론트엔드 환경에서의 이미지 업로드
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-- 글작성과 발행기능
+### Compiles and minifies for production
+```
+yarn build
+```
 
-- 커스텀 이벤트 만들어 사용하기 
+### Lints and fixes files
+```
+yarn lint
+```
 
-- 이벤트 버스로 데이터 상위요소에 버스태워 전달하기 (빵빵)
-
-- Slot을 이용해서 조금 쉽게 데이터 전달하기 
-
-- Vuex 로 데이터 관리해보기 
-
-- Axios를 이용한 Ajax요청 배워보기 
-
-- 요즘 유행하는 Progressive Web App 10초만에 발행하고 셋팅하기 
-
-- Github Pages를 이용해 인스타그램 발행과 앱설치 실습 
-</div>
-</details>
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
